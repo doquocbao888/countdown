@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background-image: url(https://images.unsplash.com/photo-1491002052546-bf38f186af56?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2108&q=80);
+    background-image: url(https://images.unsplash.com/photo-1517299321609-52687d1bc55a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
     background-color: #cccccc;
     height: 100vh;
     background-position: center;
@@ -34,7 +34,6 @@ body {
 }
 
 .text {
-    color: white;
     text-align: center;
     padding: 20px;
 }
